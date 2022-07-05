@@ -26,7 +26,6 @@ clear
 close all
 
 load('age_model_MC_optimize_PRR.mat')
-load('EDC_fine.mat')
 
 % List of variables loaded variables:
   % Ca_chron = precipitate spectra
