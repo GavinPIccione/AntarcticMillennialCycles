@@ -19,6 +19,8 @@
 % Figure 3, subplot 2 plots the binary output describing fit to climate
 % threshold 1 =  threshold fits; 0 = does not fit.
 
+% Code takes ~60s to run on "normal" computer
+
 %% Load data
 clear 
 close all
