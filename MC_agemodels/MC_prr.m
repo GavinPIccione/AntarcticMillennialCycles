@@ -37,7 +37,7 @@ load('EDC_fine.mat')
 
 %% Define climate threshold bounds
 
-% define threshold on EDC, can vary this to optimize probability
+% define threshold on EDC
 thresh = 0.5 ; 
 
 %define Ca threshold (e.g. above certain value = calcite, below this value= opal)
